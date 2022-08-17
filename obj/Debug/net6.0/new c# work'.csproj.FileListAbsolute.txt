@@ -1,0 +1,15 @@
+/Users/aleksandrmaskin/Desktop/new c# work'/obj/Debug/net6.0/new c# work'.csproj.AssemblyReference.cache
+/Users/aleksandrmaskin/Desktop/new c# work'/obj/Debug/net6.0/new c# work'.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrmaskin/Desktop/new c# work'/obj/Debug/net6.0/new c# work'.AssemblyInfoInputs.cache
+/Users/aleksandrmaskin/Desktop/new c# work'/obj/Debug/net6.0/new c# work'.AssemblyInfo.cs
+/Users/aleksandrmaskin/Desktop/new c# work'/obj/Debug/net6.0/new c# work'.csproj.CoreCompileInputs.cache
+/Users/aleksandrmaskin/Desktop/new c# work'/bin/Debug/net6.0/new c# work'
+/Users/aleksandrmaskin/Desktop/new c# work'/bin/Debug/net6.0/new c# work'.deps.json
+/Users/aleksandrmaskin/Desktop/new c# work'/bin/Debug/net6.0/new c# work'.runtimeconfig.json
+/Users/aleksandrmaskin/Desktop/new c# work'/bin/Debug/net6.0/new c# work'.dll
+/Users/aleksandrmaskin/Desktop/new c# work'/bin/Debug/net6.0/new c# work'.pdb
+/Users/aleksandrmaskin/Desktop/new c# work'/obj/Debug/net6.0/new c# work'.dll
+/Users/aleksandrmaskin/Desktop/new c# work'/obj/Debug/net6.0/refint/new c# work'.dll
+/Users/aleksandrmaskin/Desktop/new c# work'/obj/Debug/net6.0/new c# work'.pdb
+/Users/aleksandrmaskin/Desktop/new c# work'/obj/Debug/net6.0/new c# work'.genruntimeconfig.cache
+/Users/aleksandrmaskin/Desktop/new c# work'/obj/Debug/net6.0/ref/new c# work'.dll
